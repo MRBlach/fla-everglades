@@ -53,7 +53,6 @@ p {
 .secondary-content,
 .closer {
   text-align: center;
-
 }
 
 .main-header {
@@ -64,9 +63,7 @@ p {
   linear-gradient(0deg, #d6efc7, transparent 10%),
   #eebb4d url("../img/wideshot2.jpg") no-repeat center;
   background-size: cover;
-
   text-shadow: 8px 8px 4px #204051;
-
 }
 
 .title {
@@ -136,12 +133,6 @@ i:visited {
   text-transform: uppercase;
   text-shadow: none;
 }
-
-
-
-
-
-
 
 /* secondary-content */
 
@@ -222,10 +213,10 @@ i:visited {
 
 }
 
-@@media (max-width: 1024px){
+@media (max-width: 1024px){
   .primary-content,
   .secondary-content {
-    width 90%;
+    width: 90%;
     }
 
   }
@@ -233,7 +224,7 @@ i:visited {
 @media (max-width: 768px) {
   .primary-content,
   .secondary-content {
-    width 100%;
+    width: 100%;
     padding: 20px;
     }
   .primary-content,
