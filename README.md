@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://i.ibb.co/6gF0wt1/thumbnail.png">
+  <img src="https://i.ibb.co/6gF0wt1/thumbnail.png" width="300px">
   <br>
 Florida Everglades
 </h1> 
